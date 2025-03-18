@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Savings-book-management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68D5D9DC-FB60-408E-835B-565D406E736E}|sotietkiem.csproj|C:\\Users\\ASUS\\Desktop\\Savings-book-management\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68D5D9DC-FB60-408E-835B-565D406E736E}|sotietkiem.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D5D9DC-FB60-408E-835B-565D406E736E}|sotietkiem.csproj|c:\\users\\asus\\desktop\\savings-book-management\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D5D9DC-FB60-408E-835B-565D406E736E}|sotietkiem.csproj|solutionrelative:dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D5D9DC-FB60-408E-835B-565D406E736E}|sotietkiem99.csproj|C:\\Users\\ASUS\\Desktop\\Savings-book-management\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{68D5D9DC-FB60-408E-835B-565D406E736E}|sotietkiem99.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Savings-book-management\\DataAccess.cs",
+              "RelativeDocumentMoniker": "DataAccess.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Savings-book-management\\DataAccess.cs",
+              "RelativeToolTip": "DataAccess.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:26:37.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmmain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Savings-book-management\\frmmain.cs",
+              "RelativeDocumentMoniker": "frmmain.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Savings-book-management\\frmmain.cs [Design]",
+              "RelativeToolTip": "frmmain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:38:10.759Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Savings-book-management\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Savings-book-management\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-24T14:35:56.797Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

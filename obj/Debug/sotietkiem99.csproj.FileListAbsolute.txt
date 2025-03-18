@@ -1,0 +1,180 @@
+E:\source19\sotietkiem99\bin\Debug\sotietkiem99.exe.config
+E:\source19\sotietkiem99\bin\Debug\sotietkiem99.exe
+E:\source19\sotietkiem99\bin\Debug\sotietkiem99.pdb
+E:\source19\sotietkiem99\obj\Debug\sotietkiem99.csproj.AssemblyReference.cache
+E:\source19\sotietkiem99\obj\Debug\sotietkiem99.csproj.SuggestedBindingRedirects.cache
+E:\source19\sotietkiem99\obj\Debug\sotietkiem99.Properties.Resources.resources
+E:\source19\sotietkiem99\obj\Debug\sotietkiem99.csproj.GenerateResource.cache
+E:\source19\sotietkiem99\obj\Debug\sotietkiem99.csproj.CoreCompileInputs.cache
+E:\source19\sotietkiem99\obj\Debug\sotietkiem99.exe
+E:\source19\sotietkiem99\obj\Debug\sotietkiem99.pdb
+E:\source19\sotietkiem99\obj\Debug\sotietkiem99.csproj.ResolveComReference.cache
+E:\source19\sotietkiem99\obj\Debug\sotietkiem99.frmdangnhap.resources
+E:\source19\sotietkiem99\obj\Debug\sotietkiem99.frmmain.resources
+E:\source19\sotietkiem99\bin\Debug\AxShockwaveFlashObjects.dll
+E:\source19\sotietkiem99\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\source19\sotietkiem99\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\source19\sotietkiem99\bin\Debug\CrystalDecisions.Shared.dll
+E:\source19\sotietkiem99\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\source19\sotietkiem99\bin\Debug\MD5.dll
+E:\source19\sotietkiem99\bin\Debug\ShockwaveFlashObjects.dll
+E:\source19\sotietkiem99\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\source19\sotietkiem99\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\source19\sotietkiem99\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\source19\sotietkiem99\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\source19\sotietkiem99\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\source19\sotietkiem99\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\source19\sotietkiem99\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\source19\sotietkiem99\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\source19\sotietkiem99\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\source19\sotietkiem99\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\source19\sotietkiem99\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\source19\sotietkiem99\bin\Debug\stdole.dll
+E:\source19\sotietkiem99\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\source19\sotietkiem99\bin\Debug\MD5.pdb
+E:\source19\sotietkiem99\obj\Debug\sotietkiem99.frmchucvu.resources
+E:\source19\sotietkiem99\obj\Debug\sotietkiem99.frmkhachhang.resources
+E:\source19\sotietkiem99\obj\Debug\sotietkiem99.csproj.CopyComplete
+E:\source19\sotietkiem99\obj\Debug\sotietkiem99.frmkyhan.resources
+E:\source19\sotietkiem99\obj\Debug\sotietkiem99.frmnhanvien.resources
+E:\source19\sotietkiem99\obj\Debug\sotietkiem99.frmsotietkiem.resources
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\bin\Debug\sotietkiem99.exe.config
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\bin\Debug\sotietkiem99.exe
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\bin\Debug\sotietkiem99.pdb
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\bin\Debug\stdole.dll
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\bin\Debug\MD5.pdb
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\obj\Debug\sotietkiem99.csproj.AssemblyReference.cache
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\obj\Debug\sotietkiem99.csproj.ResolveComReference.cache
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\obj\Debug\sotietkiem99.frmchucvu.resources
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\obj\Debug\sotietkiem99.frmdangnhap.resources
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\obj\Debug\sotietkiem99.frmkhachhang.resources
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\obj\Debug\sotietkiem99.frmkyhan.resources
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\obj\Debug\sotietkiem99.frmmain.resources
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\obj\Debug\sotietkiem99.frmnhanvien.resources
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\obj\Debug\sotietkiem99.frmsotietkiem.resources
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\obj\Debug\sotietkiem99.Properties.Resources.resources
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\obj\Debug\sotietkiem99.csproj.GenerateResource.cache
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\obj\Debug\sotietkiem99.csproj.CoreCompileInputs.cache
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\obj\Debug\sotietki.441CA5C3.Up2Date
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\obj\Debug\sotietkiem99.exe
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\obj\Debug\sotietkiem99.pdb
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\obj\Debug\sotietkiem99.frmappabout.resources
+C:\Users\Vanha\Desktop\QLSTKnew\goc khi loi\obj\Debug\sotietkiem99.frmgroupabout.resources
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\bin\Debug\sotietkiem99.exe.config
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\bin\Debug\sotietkiem99.exe
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\bin\Debug\sotietkiem99.pdb
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\bin\Debug\stdole.dll
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\bin\Debug\MD5.pdb
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.csproj.ResolveComReference.cache
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.frmappabout.resources
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.frmchucvu.resources
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.frmdangnhap.resources
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.frmgroupabout.resources
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.frmkhachhang.resources
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.frmkyhan.resources
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.frmmain.resources
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.frmnhanvien.resources
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.frmsotietkiem.resources
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.Properties.Resources.resources
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\obj\Debug\sotietki.441CA5C3.Up2Date
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.exe
+C:\Users\ASUS\Desktop\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.pdb
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\bin\Debug\sotietkiem99.exe.config
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\bin\Debug\sotietkiem99.exe
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\bin\Debug\sotietkiem99.pdb
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\bin\Debug\stdole.dll
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\bin\Debug\MD5.pdb
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.csproj.AssemblyReference.cache
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.csproj.ResolveComReference.cache
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.frmappabout.resources
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.frmchucvu.resources
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.frmdangnhap.resources
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.frmgroupabout.resources
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.frmkhachhang.resources
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.frmkyhan.resources
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.frmmain.resources
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.frmnhanvien.resources
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.frmsotietkiem.resources
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.Properties.Resources.resources
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.csproj.GenerateResource.cache
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.csproj.CoreCompileInputs.cache
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\obj\Debug\sotietki.441CA5C3.Up2Date
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.exe
+C:\Users\nghbv\OneDrive\Máy tính\goc khi loi\goc khi loi\obj\Debug\sotietkiem99.pdb
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\bin\Debug\sotietkiem99.exe.config
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\bin\Debug\sotietkiem99.exe
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\bin\Debug\sotietkiem99.pdb
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\bin\Debug\ShockwaveFlashObjects.dll
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\bin\Debug\stdole.dll
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\bin\Debug\MD5.pdb
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\obj\Debug\sotietkiem99.csproj.AssemblyReference.cache
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\obj\Debug\sotietkiem99.csproj.ResolveComReference.cache
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\obj\Debug\sotietkiem99.frmappabout.resources
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\obj\Debug\sotietkiem99.frmchucvu.resources
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\obj\Debug\sotietkiem99.frmdangnhap.resources
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\obj\Debug\sotietkiem99.frmgroupabout.resources
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\obj\Debug\sotietkiem99.frmkhachhang.resources
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\obj\Debug\sotietkiem99.frmkyhan.resources
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\obj\Debug\sotietkiem99.frmmain.resources
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\obj\Debug\sotietkiem99.frmnhanvien.resources
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\obj\Debug\sotietkiem99.frmsotietkiem.resources
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\obj\Debug\sotietkiem99.Properties.Resources.resources
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\obj\Debug\sotietkiem99.csproj.GenerateResource.cache
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\obj\Debug\sotietkiem99.csproj.CoreCompileInputs.cache
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\obj\Debug\sotietki.441CA5C3.Up2Date
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\obj\Debug\sotietkiem99.exe
+D:\Nhóm P2NH - LTGDUD - Cuối Kỳ\LTGDUD_NhómP2NH_SourseCode\LTGDUD_NhómP2NH_SourseCode\obj\Debug\sotietkiem99.pdb
